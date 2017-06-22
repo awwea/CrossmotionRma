@@ -1,7 +1,13 @@
 {
-  "name": "crossmotion/rma",
+  "name": "crossmotion/rma-form",
   "description": "RMA Form",
   "type": "magento2-module",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/awwea/CrossmotionRma"
+    }
+  ],
   "license": [
     "OSL-3.0",
     "ASL-3.0"
@@ -14,7 +20,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Crossmotion\\Rma\\": ""
+      "CrossMotion\\RmaForm\\": ""
     }
   }
 }
