@@ -5,7 +5,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/awwea/CrossmotionRma"
+      "url": "https://github.com/awwea/CrossmotionRma.git"
     }
   ],
   "license": [
